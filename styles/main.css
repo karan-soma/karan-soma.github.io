@@ -1,0 +1,107 @@
+@media screen and (max-width:768px){
+
+  nav ul li {
+    background-color: orange;
+}
+}
+@media screen and (max-width: 320px) {
+
+  header{
+    background-color: red;
+  }
+}
+
+body{
+  margin:5;
+  background-color: #0b066d;
+  background-image: url("../myblogphotos/sitebackgroundimage.jpg");
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: white;
+}
+
+header {
+  background: #701395;
+  margin:5px;
+  padding: 10px;
+  border-radius: 5px ;
+  text-align: center;
+  margin: auto;
+  width:60%
+  }
+
+
+h1 {
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+h2{
+  margin: 30px;
+  text-align: center;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+h3{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 13px;
+}
+
+.nav-bar {
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  width: 50%;
+}
+
+nav ul {
+  margin:0;
+  display: inline;
+  float: left;
+  }
+
+  nav ul li {
+    background:#b51bb1;
+    display: inline-block;
+    border-radius: 5px ;
+    padding: 5px 10px;
+    margin: 5px;
+    }
+
+ul {
+  list-style-type: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  }
+
+  .homephotos{
+
+  border-radius: 10px;
+
+margin: 15px;
+
+  }
+
+  .idclasseg {
+    border-radius: 10px;
+ display: block;
+    margin: 30px;
+    
+  }
+
+.blogtabs {
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  width: 50%;
+  
+}
